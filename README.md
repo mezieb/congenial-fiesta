@@ -1,2 +1,2 @@
 # congenial-fiesta
-Djano todoapp
+Django todoapp
